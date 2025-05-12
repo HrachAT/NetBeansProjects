@@ -1,0 +1,73 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 24 sept. 2024, 14:07:32
+    Author     : hatomyan
+*/
+
+img:hover{
+    border: 2px red ridge;
+    z-index: 15 !important;
+}
+#russie{
+    position: absolute;
+    left: 115px;
+    top: 54px;
+    z-index: 1;
+}
+#japon{
+    position: absolute;
+    left: 139px;
+    top: 72px;
+    z-index: 2;
+}
+#usa{
+    position: absolute;
+    left: 148px;
+    top: 100px;
+    z-index: 3;
+}
+#france{
+    position: absolute;
+    left: 139px;
+    top: 128px;
+    z-index: 4;
+}
+#chine{
+    position: absolute;
+    left: 115px;
+    top: 146px;
+    z-index: 5;
+}
+#coreedusud{
+    position: absolute;
+    left: 85px;
+    top: 146px;
+    z-index: 6;
+}
+#angleterre{
+    position: absolute;
+    left: 61px;
+    top: 128px;
+    z-index: 7;
+}
+#allemagne{
+    position: absolute;
+    left: 52px;
+    top: 100px;
+    z-index: 8;
+}
+#australie{
+    position: absolute;
+    left: 61px;
+    top: 72px;
+    z-index: 9;
+}
+#italie{
+    position: absolute;
+    left: 85px;
+    top: 54px;
+    z-index: 10;
+}
