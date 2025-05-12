@@ -1,0 +1,25 @@
+.nomPrenom{
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    left:44%;
+    font-size: larger;
+}
+.adresse{
+    position: absolute;
+    text-align: center;
+    left: 40%;
+}
+.ageTel{
+    position: absolute;
+    text-align: center;
+    left: 38%;
+}
+.courriel{
+    position: absolute;
+    text-align: center;
+    left: 53%;
+}
+.photo{
+    position: absolute;
+}
