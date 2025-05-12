@@ -1,0 +1,81 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 30 sept. 2024, 11:37:38
+    Author     : hatomyan
+*/
+@media screen and (min-width:300px)
+{
+    .boite1{
+        background-color: green;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+    }
+    .boite2{
+        background-color: #66ff66;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        top: 310px;
+    }
+    .boite3{
+        background-color: pink;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        top: 610px;
+    }   
+}
+
+@media screen and (min-width:600px)
+{
+    .boite1{
+        background-color: green;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+    }
+    .boite2{
+        background-color: #66ff66;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        left: 310px;
+    }
+    .boite3{
+        background-color: pink;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        top: 310px;
+    }   
+}
+@media screen and (min-width:900px)
+{
+    .boite1{
+        background-color: green;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        top: 10px;
+    }
+    .boite2{
+        background-color: #66ff66;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        left: 310px;
+        top: 10px;
+    }
+    .boite3{
+        background-color: pink;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        left: 610px;
+        top: 10px;
+    }   
+}
