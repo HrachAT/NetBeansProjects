@@ -1,0 +1,49 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 17 sept. 2024, 15:23:54
+    Author     : hatomyan
+*/
+
+.boite1
+{
+    background-color: #ff9966;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    height: 100px;
+    width: 200px;
+    z-index: 1;
+}
+.boite2
+{
+    background-color: #ffff00;
+    position: absolute;
+    left: 30px;
+    top: 20px;
+    height: 100px;
+    width: 200px;
+    z-index: 2;
+}
+.boite3
+{
+    background-color: #0099ff;
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    left: 50px;
+    top: 40px;
+    z-index: 3;
+}
+.boite4
+{
+    background-color: #ff00ff;
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    left: 70px;
+    top: 60px;
+    z-index: 4;
+}
