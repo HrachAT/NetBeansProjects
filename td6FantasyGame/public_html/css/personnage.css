@@ -1,0 +1,88 @@
+
+/* situation 1 */
+@media screen and (max-width:950px)
+{
+    #fiche{
+        width: 680px;
+        height: 555px;
+        background: black;
+    }
+    #portrait{
+        width: 400px;
+        height: 330px;
+        background: rgb(23,126,36);
+        background: linear-gradient(0deg, rgba(23,126,36,1) 0%, rgba(9,9,9,1) 68%);
+        border: ridge green 2px;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+        position: absolute;
+        left: 70px;
+        top: 50px;
+    }
+    #nom{
+        text-align: center;
+        color: yellow;
+    }
+    #stats{
+        width: 400px;
+        height: 150px;
+        position: absolute;
+        top: 350px;
+        background: rgb(241,0,229);
+        background: linear-gradient(0deg, rgba(241,0,229,1) 0%, rgba(255,255,255,1) 100%);
+        border: ridge blueviolet 2px;
+    }
+    #statnom{
+        color:  blueviolet;
+        font-weight: bold;
+    }
+    #attaque{
+        width: 220px;
+        height: 250px;
+        position: absolute;
+        left: 450px;
+        top: 50px;
+        background: rgb(241,119,0);
+        background: linear-gradient(0deg, rgba(241,119,0,1) 55%, rgba(255,255,255,1) 100%);
+        border: ridge orange 2px;
+        
+    }
+    #attnom{
+        color: orangered;
+        font-weight: bold;
+    }
+    .Physique{
+        list-style-type: georgian;
+    }
+    .Magie{
+        list-style-type: lower-greek;
+    }
+
+}
+/* situation 2 */
+@media screen and (max-width:690px)
+{
+    #fiche{
+        width: 320px;
+        height: 620px;
+        background: black;
+    }
+
+}
+/* situation 3 */
+@media screen and (min-width:950px)
+{
+    #fiche{
+        width: 930px;
+        height: 620px;
+        background: black;
+    }
+
+}
+
+
+/*
+https://cssgradient.io/
+*/
