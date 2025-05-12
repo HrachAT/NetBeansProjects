@@ -1,0 +1,49 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 17 sept. 2024, 14:15:54
+    Author     : hatomyan
+*/
+
+.titre
+{
+   text-align: center;
+   color: #0000ff;
+   font-size: 100%; 
+   background: #ff9933;
+   border: 2px solid magenta;
+   width: 40%;
+   margin: auto;
+   font-weight:bold;
+}
+.cadre1
+{
+    text-align: center;
+    color: #ff33cc;
+    font-size: 100%;
+    border: 2px groove blue;
+    width: 20%;
+}
+.texte1
+{
+    position: relative;
+    left: 5%;
+    font-family:  'Courrier New';
+    font-size: 10px
+}
+.cadre2
+{
+    position: relative;
+    text-align: center;
+    left: 5%;
+    background: #ffcccc;
+    width: 20%;
+}
+.texte2
+{
+    position: relative;
+    font-family: 'Time New Roman';
+    left: 10%;
+}
